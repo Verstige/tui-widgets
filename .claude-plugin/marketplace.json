@@ -1,0 +1,19 @@
+{
+  "name": "tui-widgets",
+  "description": "Author live widget apps for the Hermes TUI dock.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Author live widget apps for the Hermes TUI dock.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "tui-widgets",
+      "source": "./plugins/tui-widgets",
+      "description": "Author live widget apps for the Hermes TUI dock."
+    }
+  ]
+}
